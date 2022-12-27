@@ -3,5 +3,4 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://bourpie.github.io',
-    base: '/mixed-meteorite',
   })
